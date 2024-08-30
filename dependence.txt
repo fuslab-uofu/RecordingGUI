@@ -1,0 +1,19 @@
+PySide2
+rawkit
+pyserial
+qdarkstyle
+
+apt install exiv2
+apt install libexiv2-dev
+apt install libboost-python-dev
+pip install py3exiv2		(not pyexiv2)
+
+
+sudo apt-get install -y v4l2loopback-dkms
+sudo apt-get install gphoto2 v4l2loopback-utils v4l2loopback-dkms ffmpeg
+
+pip install opencv-python-headless
+
+sudo modprobe v4l2loopback exclusive_caps=1 card_label="GPhoto2 Webcam"
+
+sudo apt-get install libxcb-xinerama0

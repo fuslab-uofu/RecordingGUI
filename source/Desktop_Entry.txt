@@ -1,0 +1,17 @@
+########################
+# Jul 15 2022
+# 
+# 
+########################
+
+~/.local/share/applications
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Slice-n-Snap
+Icon=/home/tester/Desktop/recordingGui-master/icon/microtome.png
+Exec=python3 /home/tester/Desktop/recordingGui-master/main.py
+Terminal=true
+~                   
