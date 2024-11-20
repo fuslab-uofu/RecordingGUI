@@ -1,6 +1,6 @@
 # RecordingGUI
 ## Guideline 
-Guideline for Microtome App.pdf
+Guideline for RecordingGUI.pdf
 ## Source code
 ./source
 ## Arduino code
